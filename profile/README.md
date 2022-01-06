@@ -1,4 +1,4 @@
-![Logo tagline](https://user-images.githubusercontent.com/304450/148412959-6b6bdb6e-d813-49ee-97c9-0333428f7477.png)
+<img src="https://user-images.githubusercontent.com/304450/148412959-6b6bdb6e-d813-49ee-97c9-0333428f7477.png" width="200" />
 
 BAC TEKSYS is a public limited company under Tunisian law founded in 2008.
 
